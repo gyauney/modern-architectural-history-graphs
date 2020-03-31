@@ -18,7 +18,7 @@ Anthony Vidler, *Histories of the Immediate Present: Inventing Architectural Mod
 Each JSON file contains a dictionary, where each key is a string from the index and the associated value
 is a list of the pages on which the key appears. Pages refer to the specific editions listed above.
 
-For example, the first five entries `reyner-banham_theory-and-design-in-the-first-machine-age.json` in are:
+For example, the first five entries from `theory-and-design-in-the-first-machine-age.json` in are:
 ```
 "Abraham, Pol": [31],
 "Albers, Josef": [283, 313],
