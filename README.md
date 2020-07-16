@@ -27,3 +27,7 @@ For example, the first five entries from `theory-and-design-in-the-first-machine
 - `"Alberti, L-B": [159]`
 - `"Alfeld, Fagus factory": [21, 79, 84]`
 - `"Amsterdam, the Beurs": [140, 163]`
+
+----
+
+The dataset is available for scholarly and educational use only. The user of the dataset assumes full responsibility for their use.
