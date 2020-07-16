@@ -30,4 +30,4 @@ For example, the first five entries from `theory-and-design-in-the-first-machine
 
 ----
 
-The dataset is available for scholarly and educational use only. The user of the dataset assumes full responsibility for their use.
+The dataset is available for scholarly and educational use only. The user of the dataset assumes full responsibility for its use.
