@@ -16,6 +16,8 @@ This repository contains digitized indices from several architectural history te
   
   Anthony Vidler, *Histories of the Immediate Present: Inventing Architectural Modernism*, MIT Press, 2008.
 
+Only entries for proper nouns are included.
+
 ----
 
 Each JSON file contains a dictionary, where each key is an entry in the book's index and the associated value
